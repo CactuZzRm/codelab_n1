@@ -1,8 +1,8 @@
+import 'package:codelab_n1/pages/details_page.dart';
 import 'package:flutter/material.dart';
 
-import 'mounts_app.dart';
-
-final Color mainColor = Color(0xFFFF5656);
+import '../GLOBAL VARIABLES SECTION/variables.dart';
+import 'mount_page.dart';
 
 class SplashPage extends StatelessWidget {
   @override
